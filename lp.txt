@@ -13,7 +13,8 @@
   <meta name="og:type" content="product" />
   <meta name="og:description" content="KOITOTO x TOTO 4D adalah platform togel online yang terpercaya yang memberikan pengalaman bermain togel yang menyenangkan hanya dengan deposit minimal 10ribu rupiah sudah dapat bermain togel." />
   <meta name="og:image" content="https://goodimg.io/images/2025/05/10/linkbandar_500x500.jpg" />
-   <meta name="google-site-verification" content="fmjcP4otJhYflQQf1WEBIuWn2bdFSk0UtTHsH1R0Ngo" />
+  <meta name="google-site-verification" content="fmjcP4otJhYflQQf1WEBIuWn2bdFSk0UtTHsH1R0Ngo" />
+  <meta name="google-site-verification" content="fmjcP4otJhYflQQf1WEBIuWn2bdFSk0UtTHsH1R0Ngo" />
   <link rel="manifest" href="https:https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
   <link rel="shortcut icon" href="https://goodimg.io/images/2025/05/02/favicon-koi-2025.png" />
   <link rel="amphtml" href="https://koi.avatar-amp.info/kakajar.303/" />
